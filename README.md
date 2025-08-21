@@ -11,6 +11,23 @@ The objective was to help Mitron Bank design a new line of credit cards by analy
 - IT employees show the highest % income utilization.
 - Recommendations → Cashback, EMI, Rewards, Health Benefits, Higher Limits.
 
+## 📷 Dashboards  
+
+### 1️⃣ Home Page  
+![Home Page](images/Home.png)
+
+### 2️⃣ Customer Demographics  
+![Customer Demographics](images/Customer Demographics.png)
+
+### 3️⃣ Spending Insights  
+![Spending Insights](images/Spending Insights.png)
+
+### 4️⃣ Key Customer Segments  
+![Key Segments](images/Key Customer Insights.png)
+
+### 5️⃣ Insights & Recommendations  
+![Recommendations](images/Recommendations.png)
+
 ## Tools Used
 - Power BI (Data Modeling, DAX, Visuals, Navigation)
 
