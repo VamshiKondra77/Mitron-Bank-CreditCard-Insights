@@ -17,13 +17,13 @@ The objective was to help Mitron Bank design a new line of credit cards by analy
 ![Home Page](images/Home.png)
 
 ### 2️⃣ Customer Demographics  
-![Customer Demographics](images/Customer Demographics.png)
+![Customer Demographics](images/CustomerDemographics.png)
 
 ### 3️⃣ Spending Insights  
-![Spending Insights](images/Spending Insights.png)
+![Spending Insights](images/SpendingInsights.png)
 
 ### 4️⃣ Key Customer Segments  
-![Key Segments](images/Key Customer Insights.png)
+![Key Segments](images/Key CustomerInsights.png)
 
 ### 5️⃣ Insights & Recommendations  
 ![Recommendations](images/Recommendations.png)
